@@ -1,7 +1,9 @@
-OTP Auto Verification App 
-![Image 1](https://github.com/shahin0075/OTP-auto-verification-/blob/main/9488172.jpg)
+OTP Auto Verification App
 
-![Image 2](https://github.com/shahin0075/OTP-auto-verification-/blob/main/2267881.jpg)
+
+
+
+
 Disclaimer:
 
 This app is created for educational and research purposes only. It is designed to automatically capture OTP from SMS to simplify the verification process.
@@ -18,4 +20,10 @@ The app developer, creator, or distributor will not be held liable for any misus
 
 
 By installing or using this app, the user agrees to the above terms and conditions.
+
+Download & Release:
+
+🔗 Release Page
+
+📥 Download APK
 
